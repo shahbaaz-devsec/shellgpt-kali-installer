@@ -176,5 +176,3 @@ export OPENAI_API_BASE="https://openrouter.ai/api/v1"
 * `sgpt "hello"` returns a response
 
 ---
-
-👉 `docs/04-troubleshooting.md` (advanced + real-world errors you already hit)
