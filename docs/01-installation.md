@@ -125,24 +125,3 @@ If everything is configured correctly, you should receive a response from the AI
 * `sgpt "hello"` returns a response
 
 ---
-
-````
-
----
-
-## ✅ Commit message
-
-```text
-Add installation guide
-````
-
----
-
-## 🎯 What this does
-
-* Matches your real working setup
-* Includes API reality (no confusion)
-* Covers OpenRouter (big upgrade)
-* Prevents beginner mistakes
-
----
