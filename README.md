@@ -4,6 +4,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)
 
+![ShellGPT Installer Banner](screenshots/banner.png)
+
 # ShellGPT Kali Installer
 
 Automated Kali Linux installer and setup guide for ShellGPT, a terminal-based AI assistant powered by OpenAI-compatible APIs.
