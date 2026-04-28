@@ -157,3 +157,17 @@ Use this project responsibly. ShellGPT can generate shell commands, so always re
 ## License
 
 MIT License
+
+---
+
+## Screenshots
+
+### Installation Process
+
+![Installation Step 1](screenshots/shellgpt-installation_1.png)
+
+![Installation Step 2](screenshots/shellgpt-installation_2.png)
+
+### ShellGPT Running
+
+![ShellGPT Help](screenshots/shellgpt-help.png)
