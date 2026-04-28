@@ -10,6 +10,13 @@ Automated Kali Linux installer and setup guide for ShellGPT, a terminal-based AI
 
 ---
 
+## One-Line Installation
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/shahbaaz-devsec/shellgpt-kali-installer/main/scripts/shellgpt_kali_installer.sh | bash
+```
+---
+
 ## Overview
 
 This project provides a clean and reproducible way to install ShellGPT on Kali Linux.
