@@ -150,8 +150,3 @@ Use this project responsibly. ShellGPT can generate shell commands, so always re
 ## License
 
 MIT License
-```text
-Add professional README
-````
-
-Commit it, then say `done`.
